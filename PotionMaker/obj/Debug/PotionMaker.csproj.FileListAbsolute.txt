@@ -1,0 +1,9 @@
+c:\users\alexander.armst\documents\visual studio 2015\Projects\PotionMaker\PotionMaker\bin\Debug\PotionMaker.exe.config
+c:\users\alexander.armst\documents\visual studio 2015\Projects\PotionMaker\PotionMaker\bin\Debug\PotionMaker.exe
+c:\users\alexander.armst\documents\visual studio 2015\Projects\PotionMaker\PotionMaker\bin\Debug\PotionMaker.pdb
+c:\users\alexander.armst\documents\visual studio 2015\Projects\PotionMaker\PotionMaker\obj\Debug\PotionMaker.csprojResolveAssemblyReference.cache
+c:\users\alexander.armst\documents\visual studio 2015\Projects\PotionMaker\PotionMaker\obj\Debug\PotionMaker.Form1.resources
+c:\users\alexander.armst\documents\visual studio 2015\Projects\PotionMaker\PotionMaker\obj\Debug\PotionMaker.Properties.Resources.resources
+c:\users\alexander.armst\documents\visual studio 2015\Projects\PotionMaker\PotionMaker\obj\Debug\PotionMaker.csproj.GenerateResource.Cache
+c:\users\alexander.armst\documents\visual studio 2015\Projects\PotionMaker\PotionMaker\obj\Debug\PotionMaker.exe
+c:\users\alexander.armst\documents\visual studio 2015\Projects\PotionMaker\PotionMaker\obj\Debug\PotionMaker.pdb
