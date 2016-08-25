@@ -1,0 +1,8 @@
+C:\Users\alexander.armst\Documents\test\Programming\Users\alexander.armst\PotionMaker\PotionMaker\bin\Release\PotionMaker.exe.config
+C:\Users\alexander.armst\Documents\test\Programming\Users\alexander.armst\PotionMaker\PotionMaker\bin\Release\PotionMaker.exe
+C:\Users\alexander.armst\Documents\test\Programming\Users\alexander.armst\PotionMaker\PotionMaker\bin\Release\PotionMaker.pdb
+C:\Users\alexander.armst\Documents\test\Programming\Users\alexander.armst\PotionMaker\PotionMaker\obj\Release\PotionMaker.Form1.resources
+C:\Users\alexander.armst\Documents\test\Programming\Users\alexander.armst\PotionMaker\PotionMaker\obj\Release\PotionMaker.Properties.Resources.resources
+C:\Users\alexander.armst\Documents\test\Programming\Users\alexander.armst\PotionMaker\PotionMaker\obj\Release\PotionMaker.csproj.GenerateResource.Cache
+C:\Users\alexander.armst\Documents\test\Programming\Users\alexander.armst\PotionMaker\PotionMaker\obj\Release\PotionMaker.exe
+C:\Users\alexander.armst\Documents\test\Programming\Users\alexander.armst\PotionMaker\PotionMaker\obj\Release\PotionMaker.pdb
